@@ -58,11 +58,11 @@ React-Learning-Journey/
 Since this repository contains multiple standalone modules and projects, you can run any folder individually by following these steps:
 
 1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/TEHREEM-RANA/React-Learning-Journey.git](https://github.com/TEHREEM-RANA/React-Learning-Journey.git)
+  ```bash
+git clone https://github.com/TEHREEM-RANA/React-Learning-Journey.git
 
 ```
-```
+
 2. **Navigate to the specific module folder:**
 ```bash
 cd path-to-folder
