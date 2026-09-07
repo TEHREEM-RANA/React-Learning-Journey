@@ -63,7 +63,7 @@ Since this repository contains multiple standalone modules and projects, you can
    git clone [https://github.com/TEHREEM-RANA/React-Learning-Journey.git](https://github.com/TEHREEM-RANA/React-Learning-Journey.git)
 
 ```
-
+```
 2. **Navigate to the specific module folder:**
 ```bash
 cd path-to-folder
