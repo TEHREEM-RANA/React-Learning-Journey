@@ -51,8 +51,10 @@ React-Learning-Journey/
 ├── 19_routing_advance/
 ├── 20_bounus_topics/
 └── 21_context_api/
-## 🛠️ How to Run Locally
+
  ```
+## 🛠️ How to Run Locally
+
 
 Since this repository contains multiple standalone modules and projects, you can run any folder individually by following these steps:
 
