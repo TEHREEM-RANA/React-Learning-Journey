@@ -1,4 +1,4 @@
-# React Learning Journey 🚀
+# React Learning Journey 
 
 ## Repository Overview
 This repository serves as my personal learning archive and hands-on practice vault for modern frontend development with **React**. It tracks my progression from core JavaScript/JSX fundamentals and component-driven architecture to advanced state management, API integration, routing, and global context.
@@ -53,13 +53,53 @@ React-Learning-Journey/
 └── 21_context_api/
 
  ```
-## 🛠️ How to Run Locally
 
+## 🛠️ How to Run Locally
 
 Since this repository contains multiple standalone modules and projects, you can run any folder individually by following these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/TEHREEM-RANA/your-repo-name.git](https://github.com/TEHREEM-RANA/React-Learning-Journey.git)
-    ```
-   
+   git clone [https://github.com/TEHREEM-RANA/React-Learning-Journey.git](https://github.com/TEHREEM-RANA/React-Learning-Journey.git)
+
+```
+
+2. **Navigate to the specific module folder:**
+```bash
+cd path-to-folder
+# Example: cd 13_notes_app
+
+```
+
+
+3. **Install dependencies:**
+```bash
+npm install
+
+```
+
+
+4. **Run the development server:**
+```bash
+npm run dev
+# or npm start (depending on the project template)
+
+```
+
+
+
+---
+
+👤 **Contributor**
+
+* **Name:** Tehreem Rana
+* **LinkedIn:** [https://www.linkedin.com/in/tehreem22/](https://www.linkedin.com/in/tehreem22/)
+
+💡 **Notes**
+This is a self-paced learning archive documenting my progression in React development.
+
+Feel free to explore the code, test components, and leave a ⭐ if you find it helpful!
+
+```
+
+```
